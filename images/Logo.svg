@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" enable-background="new 0 0 1200 1200" xml:space="preserve">
+<g id="Lines">
+	
+		<line fill="none" stroke="#FB8C00" stroke-width="38.0841" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="304" y1="237" x2="896" y2="237"/>
+	
+		<line fill="none" stroke="#FB8C00" stroke-width="38.0841" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="304" y1="387" x2="896" y2="387"/>
+	
+		<line fill="none" stroke="#FB8C00" stroke-width="38.0841" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="304" y1="537" x2="896" y2="537"/>
+	
+		<line fill="none" stroke="#FB8C00" stroke-width="38.0841" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="304" y1="687" x2="896" y2="687"/>
+	
+		<rect x="200.5" y="68.5" fill="none" stroke="#FB8C00" stroke-width="33.6979" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="799" height="799"/>
+</g>
+<g id="Sliders">
+	<path fill="#2C40D1" d="M515,287H385c-5.5,0-10-4.5-10-10v-80c0-5.5,4.5-10,10-10h130c5.5,0,10,4.5,10,10v80
+		C525,282.5,520.5,287,515,287z"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="450" y1="187" x2="450" y2="287"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="485" y1="187" x2="485" y2="287"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="415" y1="187" x2="415" y2="287"/>
+	<path fill="#2C40D1" d="M600,437H470c-5.5,0-10-4.5-10-10v-80c0-5.5,4.5-10,10-10h130c5.5,0,10,4.5,10,10v80
+		C610,432.5,605.5,437,600,437z"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="535" y1="337" x2="535" y2="437"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="570" y1="337" x2="570" y2="437"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="500" y1="337" x2="500" y2="437"/>
+	<path fill="#2C40D1" d="M750,587H620c-5.5,0-10-4.5-10-10v-80c0-5.5,4.5-10,10-10h130c5.5,0,10,4.5,10,10v80
+		C760,582.5,755.5,587,750,587z"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="685" y1="487" x2="685" y2="587"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="720" y1="487" x2="720" y2="587"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="650" y1="487" x2="650" y2="587"/>
+	<path fill="#2C40D1" d="M545,737H415c-5.5,0-10-4.5-10-10v-80c0-5.5,4.5-10,10-10h130c5.5,0,10,4.5,10,10v80
+		C555,732.5,550.5,737,545,737z"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="480" y1="637" x2="480" y2="737"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="515" y1="637" x2="515" y2="737"/>
+	<line fill="none" stroke="#1A237E" stroke-width="5" stroke-miterlimit="10" x1="445" y1="637" x2="445" y2="737"/>
+</g>
+<g id="Text">
+	<g>
+		<path fill="#2C40D1" stroke="#2D2D2D" stroke-width="5" stroke-miterlimit="10" d="M355.9,936.9v48.2l-30.2-5.6v-12H294v10
+			l61.9,13v72.8h-91.6v-53.9l29.7,6.5v16.4h31.7v-14.8l-61.5-15.3v-65.3H355.9z"/>
+		<path fill="#2C40D1" stroke="#2D2D2D" stroke-width="5" stroke-miterlimit="10" d="M452.2,1064l-92.2-0.8l-0.7-125.3l92.1-1.2
+			l0.6,54.7h-30.1l0.2-18.5l-31.9,0.5l0.5,55.2l61.5-0.7V1064z"/>
+		<path fill="#2C40D1" stroke="#2D2D2D" stroke-width="5" stroke-miterlimit="10" d="M455.3,936.8h30.5V984h31v-47.2h30.5v126.7
+			h-31.1l0.1-47.4h-30.1l0.1,47.4h-31.1V936.8z"/>
+		<path fill="#2C40D1" stroke="#2D2D2D" stroke-width="5" stroke-miterlimit="10" d="M550.7,936.8h101.9v32.9h-36l1.4,93.9h-32.4
+			l1.4-93.9h-36.2V936.8z"/>
+		<path fill="#2C40D1" stroke="#2D2D2D" stroke-width="5" stroke-miterlimit="10" d="M744.6,1063.5l-88-0.9V937.2l85.6-1.1v34.2
+			l-54.9-1.1V985l44-1.1l0.2,32.6l-44.2-1.2v15.3l56.9-1.3L744.6,1063.5z"/>
+		<path fill="#2C40D1" stroke="#2D2D2D" stroke-width="5" stroke-miterlimit="10" d="M840.6,1064l-92.2-0.8l-0.7-125.3l92.1-1.2
+			l0.6,54.7h-30.1l0.2-18.5l-31.9,0.5l0.5,55.2l61.5-0.7V1064z"/>
+		<path fill="#2C40D1" stroke="#2D2D2D" stroke-width="5" stroke-miterlimit="10" d="M843.8,936.8h30.5V984h31v-47.2h30.5v126.7
+			h-31.1l0.1-47.4h-30.1l0.1,47.4h-31.1V936.8z"/>
+	</g>
+</g>
+</svg>
